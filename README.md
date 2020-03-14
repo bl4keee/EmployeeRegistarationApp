@@ -51,11 +51,11 @@ The process of everything you can use this app for as well as general look of th
 
 ![1delete](https://user-images.githubusercontent.com/50672367/76680355-3426d680-65e8-11ea-9507-91a26593598a.JPG)
 
-2) Confirmation of removing employee. 
+2) Confirmation of removing employee (after clicking 'Delete' button). 
 
 ![2delete](https://user-images.githubusercontent.com/50672367/76680310-c1b5f680-65e7-11ea-87b2-11d6c727025e.JPG)
 
-3) Receiving notification of removed employee (after clicking 'Delete' button).
+3) Receiving notification of removed employee (after clicking 'Yes' button).
 
 ![3delete](https://user-images.githubusercontent.com/50672367/76680333-f45fef00-65e7-11ea-87b0-fbd47192c0dd.JPG)
 
