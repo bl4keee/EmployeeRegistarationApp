@@ -18,7 +18,7 @@ The process of everything you can use this app for as well as general look of th
 
 ![danedododania](https://user-images.githubusercontent.com/50672367/76680232-30df1b00-65e7-11ea-8c47-a6652a07c85e.JPG)
 
-3) Receiving notification of added record
+3) Receiving notification of added record (after clicking 'Add' button)
 
 ![recordadded](https://user-images.githubusercontent.com/50672367/76680252-53713400-65e7-11ea-897d-65f625170dea.JPG)
 
@@ -32,11 +32,11 @@ The process of everything you can use this app for as well as general look of th
 
 ![1edit](https://user-images.githubusercontent.com/50672367/76680411-8831bb00-65e8-11ea-8095-1c6a7912062f.JPG)
 
-2) Changing employee's name in a given field
+2) Changing employee's name in a given field (from John to Richard)
 
 ![2edit](https://user-images.githubusercontent.com/50672367/76680421-92ec5000-65e8-11ea-91e7-c1c720342006.JPG)
 
-3) Receiving notification of edited employee's data 
+3) Receiving notification of edited employee's data (after clicking 'Edit' button)
 
 ![3edit](https://user-images.githubusercontent.com/50672367/76680440-ba431d00-65e8-11ea-8768-da874e7d0845.JPG)
 
@@ -55,7 +55,7 @@ The process of everything you can use this app for as well as general look of th
 
 ![2delete](https://user-images.githubusercontent.com/50672367/76680310-c1b5f680-65e7-11ea-87b2-11d6c727025e.JPG)
 
-3) Receiving notification of removed employee
+3) Receiving notification of removed employee (after clicking 'Delete' button)
 
 ![3delete](https://user-images.githubusercontent.com/50672367/76680333-f45fef00-65e7-11ea-87b0-fbd47192c0dd.JPG)
 
